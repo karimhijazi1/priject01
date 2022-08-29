@@ -142,6 +142,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.blueAccent,
                         textColor: Colors.white,
                         highlightColor: Colors.black12,
+                        shape: CircleBorder(),
                         child: Text(
                           "Advertisement",
                           style: TextStyle(fontSize: 25),
